@@ -61,6 +61,7 @@ ul {
 .left-links, .right-links {
   display: flex;
   gap: 8px;
+  padding: 8px;
 }
 
 a {
